@@ -1,0 +1,24 @@
+{
+  "name": "knex-v1-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhyrka/knex-v1-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhyrka/knex-v1-app/issues"
+  },
+  "homepage": "https://github.com/mhyrka/knex-v1-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "knex": "^0.14.6",
+    "pg": "^7.4.1"
+  }
+}
